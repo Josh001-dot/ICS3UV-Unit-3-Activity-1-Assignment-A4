@@ -30,4 +30,4 @@ console.log(
   "."
 );
 
-("\nDone.");
+console.log("\nDone.");
