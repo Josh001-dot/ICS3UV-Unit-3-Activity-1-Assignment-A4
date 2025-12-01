@@ -28,6 +28,7 @@ console.log(
   " is " +
   average.toFixed(2) +
   "."
+
 );
 
 console.log("\nDone.");
