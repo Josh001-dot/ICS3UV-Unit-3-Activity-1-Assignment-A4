@@ -14,7 +14,7 @@ const NUMBER3: number = 90.2;
 
 // PROCESS
 // calculate the average
-let average: number = (NUMBER1 + NUMBER2 + NUMBER3) / 3;
+const average = (NUMBER1 + NUMBER2 + NUMBER3) / 3;
 
 // OUTPUT
 // display the result
